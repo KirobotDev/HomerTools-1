@@ -16,7 +16,7 @@ from code.dox import dox
 from code.programe_searcher import programme_searcher
 
 
-os.system("color 0C")
+os.system("color 0D")
 
 
 def afficher_animation(texte) -> None:
