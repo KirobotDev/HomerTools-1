@@ -8,7 +8,7 @@
 <h2>📸 Preview:</h2>
 
 <p align="center">
-  <img src="image/preview.png" alt="HomerTools" width="9999">
+    <img src="./preview.png" alt="HomerTools" width="800">
 </p>
 
 
